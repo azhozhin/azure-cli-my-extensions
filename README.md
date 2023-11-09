@@ -1,6 +1,6 @@
 # Azure CLI my extensions
 
-This is **NOT COMPLETE** solution.
+This is **NOT COMPLETE** solution. It is a part of blog post [https://zhozhin.com/blog/2023/extending-azure-cli](https://zhozhin.com/blog/2023/extending-azure-cli/?utm_source=github.com&utm_medium=github&utm_campaign=source)
 
 This repository is a demonstration how to create Azure CLI extension to work with PowerBI service.
 
