@@ -1,0 +1,43 @@
+{
+ "extensions": {
+  "azure-pbi": [
+   {
+    "downloadUrl": "https://test-files.pythonhosted.org/packages/86/f1/d733c51782f65e255bebfb7e5f916872f855bfc5acccb908f7281093908b/azure_pbi-0.0.1-py3-none-any.whl",
+    "filename": "azure_pbi-0.0.1-py3-none-any.whl",
+    "metadata": {
+     "classifiers": [
+      "Development Status :: 4 - Beta",
+      "Intended Audience :: Developers",
+      "Intended Audience :: System Administrators",
+      "Programming Language :: Python",
+      "Programming Language :: Python :: 3",
+      "Programming Language :: Python :: 3.7",
+      "Programming Language :: Python :: 3.8",
+      "Programming Language :: Python :: 3.9",
+      "License :: OSI Approved :: MIT License"
+     ],
+     "extensions": {
+      "python.details": {
+       "contacts": [
+        {
+         "email": "email@example.com",
+         "name": "Andrei Zhozhin",
+         "role": "author"
+        }
+       ],
+       "project_urls": {
+        "Home": ""
+       }
+      }
+     },
+     "license": "MIT",
+     "metadata_version": "2.1",
+     "name": "azure-pbi",
+     "summary": "PowerBI CLI",
+     "version": "0.0.1"
+    },
+    "sha256Digest": "7258107d09432a9c3a7b713bc31f1e755a1d5eb51d8f298e737f6ce56337eff2"
+   }
+  ]
+ }
+}
